@@ -1,9 +1,3 @@
-# DynMap Maker
-
-<p align="center">
-  <img src="assets/app_icon.png" alt="DynMap Maker" width="180" />
-</p>
-
 `DynMap Maker` is a desktop utility for merging Dynmap tile exports into a single output image. It provides both a PyQt-based graphical interface and a command-line interface for scripted or manual workflows.
 
 ## Basic guide
